@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>VAAL &#8212; tabachka.shop</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 01 May 2024 17:22:45 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/05/cropped-an-eye-catching-logo-design-for-tabachka-shop-feat-r3f8VrYtTTSWGIQW5kZoaQ-Qb9nXP9BRDy19q2rfHszlg-32x32.jpeg</url>
+	<title>VAAL &#8212; tabachka.shop</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>VAAL GLAZ 6500 5% ORIGINAL</title>
+		<link>./../../../product/vaal-glaz-6500-5-original/index.html</link>
+					<comments>./../../../product/vaal-glaz-6500-5-original/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 01 May 2024 17:22:45 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4659</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/vaal-glaz-6500-5-original/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>VAAL GLAZ 5000 5% ORIGINAL</title>
+		<link>./../../../product/vaal-glaz-5000-5-original/index.html</link>
+					<comments>./../../../product/vaal-glaz-5000-5-original/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 01 May 2024 17:19:55 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=4653</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/vaal-glaz-5000-5-original/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
